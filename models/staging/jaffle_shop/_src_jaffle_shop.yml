@@ -16,9 +16,3 @@ sources:
       - name: customers
         freshness: null
       - name: orders
-
-  - name: stripe 
-    database: raw
-    schema: stripe
-    tables:
-      - name: payments 
